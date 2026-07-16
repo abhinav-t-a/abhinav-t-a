@@ -46,9 +46,9 @@ Data Analytics • Power BI • Python • SQL • AI & ML Enthusiast
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavta214-netizen&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinav-t-a&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavta214-netizen&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-t-a&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -58,7 +58,7 @@ Data Analytics • Power BI • Python • SQL • AI & ML Enthusiast
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=abhinavta214-netizen&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=abhinav-t-a&theme=tokyonight"/>
 
 </p>
 
@@ -68,7 +68,7 @@ Data Analytics • Power BI • Python • SQL • AI & ML Enthusiast
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhinavta214-netizen&theme=tokyonight&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhinav-t-a&theme=tokyonight&margin-w=10"/>
 
 </p>
 
@@ -78,7 +78,7 @@ Data Analytics • Power BI • Python • SQL • AI & ML Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavta214-netizen&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinav-t-a&theme=tokyo-night"/>
 
 </p>
 
